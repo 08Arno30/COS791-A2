@@ -1,0 +1,9 @@
+File Name: T62.jpg
+K (Levels): 4
+Num_thresholds: 3
+Objective: otsu
+Algorithm: sa
+SSIM: 0.8020072967177202
+PSNR: 22.171820914138483
+Best Solution: [ 37  93 127 237]
+Best Evaluation: 418235012.2264005

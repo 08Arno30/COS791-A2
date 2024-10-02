@@ -1,0 +1,9 @@
+File Name: T52.jpg
+K (Levels): 4
+Num_thresholds: 3
+Objective: otsu
+Algorithm: vns
+SSIM: 0.613626747147727
+PSNR: 11.320324566989513
+Best Solution: [ 23  34  41 149]
+Best Evaluation: 349256561.9477601

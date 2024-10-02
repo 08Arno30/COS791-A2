@@ -1,0 +1,9 @@
+File Name: T52.jpg
+K (Levels): 4
+Num_thresholds: 3
+Objective: kapur
+Algorithm: vns
+SSIM: 0.643872628793373
+PSNR: 11.799080673661697
+Best Solution: [ 17  50  50 148]
+Best Evaluation: 11.85951111105506

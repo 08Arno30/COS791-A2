@@ -1,0 +1,9 @@
+File Name: T22.jpg
+K (Levels): 4
+Num_thresholds: 3
+Objective: kapur
+Algorithm: sa
+SSIM: 0.6581185456689689
+PSNR: 20.045072906155564
+Best Solution: [  4  68 197 241]
+Best Evaluation: 12.18117281808318

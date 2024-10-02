@@ -1,0 +1,9 @@
+File Name: T32.jpg
+K (Levels): 3
+Num_thresholds: 2
+Objective: otsu
+Algorithm: vns
+SSIM: 0.23854579623593436
+PSNR: 11.118324723932936
+Best Solution: [  0 115 133]
+Best Evaluation: 259162525.96632016

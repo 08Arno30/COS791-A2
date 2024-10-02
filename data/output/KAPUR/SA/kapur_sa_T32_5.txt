@@ -1,0 +1,9 @@
+File Name: T32.jpg
+K (Levels): 5
+Num_thresholds: 4
+Objective: kapur
+Algorithm: sa
+SSIM: 0.7614825572125984
+PSNR: 20.87660125183205
+Best Solution: [ 33 111 169 218 252]
+Best Evaluation: 15.228321279573965

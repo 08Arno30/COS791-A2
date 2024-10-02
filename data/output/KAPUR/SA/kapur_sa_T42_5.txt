@@ -1,0 +1,9 @@
+File Name: T42.jpg
+K (Levels): 5
+Num_thresholds: 4
+Objective: kapur
+Algorithm: sa
+SSIM: 0.8274708692780125
+PSNR: 24.728203226840183
+Best Solution: [ 16  91 140 168 254]
+Best Evaluation: 15.574361959035343

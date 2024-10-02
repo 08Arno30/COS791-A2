@@ -1,0 +1,9 @@
+File Name: T52.jpg
+K (Levels): 5
+Num_thresholds: 4
+Objective: kapur
+Algorithm: sa
+SSIM: 0.4826375713156156
+PSNR: 15.862370781491268
+Best Solution: [  0  44 102 143 252]
+Best Evaluation: 15.230311650655985

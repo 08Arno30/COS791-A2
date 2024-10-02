@@ -1,0 +1,9 @@
+File Name: T22.jpg
+K (Levels): 3
+Num_thresholds: 2
+Objective: otsu
+Algorithm: sa
+SSIM: 0.7249288656448569
+PSNR: 20.53693802878759
+Best Solution: [ 28 107 241]
+Best Evaluation: 239122109.53443536

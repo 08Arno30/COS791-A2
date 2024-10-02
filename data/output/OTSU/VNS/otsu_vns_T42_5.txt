@@ -1,0 +1,9 @@
+File Name: T42.jpg
+K (Levels): 5
+Num_thresholds: 4
+Objective: otsu
+Algorithm: vns
+SSIM: 0.437821834827392
+PSNR: 13.247483195252357
+Best Solution: [116 165 200 240 241]
+Best Evaluation: 340057924.4107741

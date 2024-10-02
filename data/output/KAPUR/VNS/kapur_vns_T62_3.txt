@@ -1,0 +1,9 @@
+File Name: T62.jpg
+K (Levels): 3
+Num_thresholds: 2
+Objective: kapur
+Algorithm: vns
+SSIM: 0.5206866091878819
+PSNR: 13.833722486919807
+Best Solution: [108 188 250]
+Best Evaluation: 8.786580163408315
